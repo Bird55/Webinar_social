@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Webinar_social</string>
+
+    <string name="facebook_app_id">871544839595112</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
